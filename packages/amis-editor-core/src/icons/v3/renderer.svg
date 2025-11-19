@@ -1,6 +1,1 @@
-<svg viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg">
-    <g fill="none" fill-rule="evenodd">
-        <path d="M0 0h6v6H0z"/>
-        <path d="M.567.567h1.95v1.95H.566V.567Zm2.918 0h1.95v1.95h-1.95V.567ZM.567 3.484h1.95v1.949H.566v-1.95Zm2.918 0h1.95v1.949h-1.95v-1.95Z" stroke="currentColor" stroke-width=".5" stroke-linejoin="round"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 6"><g fill="none" fill-rule="evenodd"><path d="M0 0h6v6H0z"/><path stroke="currentColor" stroke-linejoin="round" stroke-width=".5" d="M.567.567h1.95v1.95H.566V.567Zm2.918 0h1.95v1.95h-1.95V.567ZM.567 3.484h1.95v1.949H.566v-1.95Zm2.918 0h1.95v1.949h-1.95v-1.95Z"/></g></svg>
