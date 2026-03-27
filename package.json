@@ -46,7 +46,7 @@
   "dependencies": {
     "path-to-regexp": "^6.2.0",
     "postcss": "^8.4.14",
-    "qs": "6.9.7",
+    "qs": "6.14.2",
     "smooth-signature": "^1.0.15",
     "tslib": "^2.8.1"
   },
@@ -74,7 +74,7 @@
     "amis-publish": "^1.0.5",
     "copy-to-clipboard": "3.3.1",
     "echarts": "5.4.0",
-    "eslint": "^9.18.0",
+    "eslint": "^10.0.0",
     "express": "^4.18.2",
     "fis-optimizer-terser": "^1.0.1",
     "fis-parser-sass": "^1.2.0",
@@ -96,7 +96,7 @@
     "jest-environment-jsdom": "^29.0.3",
     "js-yaml": "^4.1.0",
     "katex": "^0.16.9",
-    "lerna": "^6.6.2",
+    "lerna": "^9.0.4",
     "lint-staged": "^12.1.2",
     "magic-string": "^0.26.7",
     "marked": "^4.2.1",
