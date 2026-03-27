@@ -1,8 +1,1 @@
-<svg viewBox="0 0 6 6" xmlns="http://www.w3.org/2000/svg">
-    <g fill="none" fill-rule="evenodd">
-        <path d="M.2.6h5.6v4.8H.2z"/>
-        <path stroke="currentColor" stroke-width=".5" stroke-linejoin="round" d="M.5.917h5v4.166h-5z"/>
-        <path stroke="currentColor" stroke-width=".5" stroke-linecap="round" d="M3.57 1.947 2.449 4.042"/>
-        <path d="m4.214 2.411.59.59-.589.588M1.861 2.411l-.59.59.589.588" stroke="currentColor" stroke-width=".5" stroke-linecap="round" stroke-linejoin="round"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6 6"><g fill="none" fill-rule="evenodd"><path d="M.2.6h5.6v4.8H.2z"/><path stroke="currentColor" stroke-linejoin="round" stroke-width=".5" d="M.5.917h5v4.166h-5z"/><path stroke="currentColor" stroke-linecap="round" stroke-width=".5" d="M3.57 1.947 2.449 4.042"/><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5" d="m4.214 2.411.59.59-.589.588M1.861 2.411l-.59.59.589.588"/></g></svg>
